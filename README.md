@@ -7,7 +7,7 @@ I keep coming across so many amazing resources, BUT I often forget about them or
 * [Unsupervised translation words between languages using word embedding embedding spaces](https://arxiv.org/pdf/1710.04087.pdf)
 * [SOA Autoencoder for long text using hierarchical embeddings and attention](https://arxiv.org/pdf/1708.02709.pdf)
 * [An extractive approach to Interpretable NLP](https://arxiv.org/pdf/1606.04155.pdf)
-* 
+* [Modeling latent attention for interpretability](https://arxiv.org/pdf/1706.00536.pdf)
 
 ## Societal ML
 
